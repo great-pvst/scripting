@@ -1,0 +1,17 @@
+[
+    {
+        "userid": "user2@pve",
+        "firstname": "user2",
+        "lastname": "user2",
+        "email": "user2@tp.local",
+        "groups": "pveusers"
+    },
+
+    {
+        "userid": "user3@pve",
+        "firstname": "user3",
+        "lastname": "user3",
+        "email": "user3@tp.local",
+        "groups": "pveusers"
+    }   
+]

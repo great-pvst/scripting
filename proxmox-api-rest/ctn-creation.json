@@ -1,0 +1,23 @@
+{
+    "containers": [
+        {
+            "vmid": 400,
+            "ostemplate": "local:vztmpl/ubuntu-24.04-standard_24.04-2_amd64.tar.zst",
+
+            "force": false,
+            "hostname": "auto-ctn0",
+            "cores": 1,
+            "memory": 512
+        },
+
+        {
+            "vmid": 401,
+            "ostemplate": "local:vztmpl/ubuntu-24.04-standard_24.04-2_amd64.tar.zst",
+
+            "force": false,
+            "hostname": "auto-ctn1",
+            "cores": 1,
+            "memory": 512
+        }
+    ]
+}
